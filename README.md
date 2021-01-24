@@ -20,7 +20,8 @@ I'm Jéferson Pinheiro,  from Brazil and I love to learn and contribute in the b
 
 ### :mailbox: Reach me	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jeferson-pinheiro/)](https://www.linkedin.com/in/jeferson-pinheiro/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonpinheirodesouza@gmail.com)](jefersonpinheirodesouza@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonpinheirodesouza@gmail.com)](mailto:jefersonpinheirodesouza@gmail.com)
+
 <!--
 **ojeffpinheiro01/ojeffpinheiro01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
