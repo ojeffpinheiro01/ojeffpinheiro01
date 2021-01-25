@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojeffpinheiro01&label=Profile%20views&color=0e75b6&style=flat" alt="ojeffpinheiro01" /> </p>
 
 <details>
-  <summary>Languages and Tools</summary>
+  <summary> Languages and Tools</summary>
   <h4>Programming Languages</h4>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
@@ -22,9 +22,6 @@
 
 <h4>Backend as a Service(BaaS)</h4>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-
-<h4>Design</h4>
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
 <h4>Design</h4>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
