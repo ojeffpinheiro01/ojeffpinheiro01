@@ -42,7 +42,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=ojeffpinheiro01&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojeffpinheiro01&show_icons=true&theme=dark&cache_seconds=1800&hide_rank=true&">
 </details>
 
 <details>
