@@ -14,7 +14,7 @@
   <a href="https://app.rocketseat.com.br/me/jeferson-pinheiro-de-souza-1580117763" target="blank"><img align="center" src="https://i.ytimg.com/an/SfwM5u0Kce6Cce8_S72olg/featured_channel.jpg?v=5f3c24e8" alt="jeferson-pinheiro" height="30" width="40" /></a>
 </p>
 <details>
-  <summary> Languages and Tools</summary>
+  <summary>:zap: Languages and Tools</summary>
   <h4>Programming Languages</h4>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
