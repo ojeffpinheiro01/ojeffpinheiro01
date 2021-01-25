@@ -24,7 +24,7 @@
 ##### <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
 ### :mailbox: Reach me	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jeferson-pinheiro/)](https://www.linkedin.com/in/jeferson-pinheiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-JefersonPinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jeferson-pinheiro/)](https://www.linkedin.com/in/jeferson-pinheiro/)
 [![Gmail Badge](https://img.shields.io/badge/-jefersonpinheirodesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonpinheirodesouza@gmail.com)](mailto:jefersonpinheirodesouza@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
