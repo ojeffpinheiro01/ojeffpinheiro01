@@ -8,10 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-jefersonpinheirodesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonpinheirodesouza@gmail.com)](mailto:jefersonpinheirodesouza@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ojeffoinheiro" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jeferson-pinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeferson-pinheiro" height="30" width="40" /></a>
-  <a href="https://app.rocketseat.com.br/me/jeferson-pinheiro-de-souza-1580117763" target="blank"><img align="center" src="https://i.ytimg.com/an/SfwM5u0Kce6Cce8_S72olg/featured_channel.jpg?v=5f3c24e8" alt="jeferson-pinheiro" height="30" width="40" /></a>
+<p align="center">
+<a href="https://dev.to/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ojeffoinheiro" height="20" width="20" /></a>
+<a href="https://codepen.io/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/jeferson-pinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/ojeffpinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://codesandbox.io/u/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
 <details>
   <summary>:zap: Languages and Tools</summary>
