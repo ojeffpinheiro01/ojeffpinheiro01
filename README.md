@@ -15,7 +15,6 @@
 <a href="https://stackoverflow.com/ojeffpinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ojeffoinheiro" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ojeffoinheiro" height="30" width="40" /></a>
 <a href="https://app.rocketseat.com.br/me/jeferson-pinheiro-de-souza-1580117763" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/1356/1356604.svg" alt="ojeffoinheiro" height="30" width="40" /></a>
-<a href="https://app.rocketseat.com.br/me/jeferson-pinheiro-de-souza-1580117763" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/1356/1356604.svg" alt="ojeffoinheiro" height="30" width="40" /></a>
 </p>
 <details>
   <summary>:zap: Languages and Tools</summary>
