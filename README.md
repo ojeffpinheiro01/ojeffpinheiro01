@@ -60,7 +60,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=maratona-discover&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/maratona-discover)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=Happy&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/Happy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=barber&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/barber)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=task&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/task)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=move-it&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/move-it)
 
 </details>
 
