@@ -55,7 +55,7 @@
 <details>
   <summary>:zap: Recent projects</summary>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=jeffgram&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/jeffgram)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=jobsCalc&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/jobsCalc)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=jeffDeliver&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/jeffDeliver)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=maratona-discover&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/maratona-discover)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ojeffpinheiro01&repo=Happy&theme=react&show_icons=true)](https://github.com/ojeffpinheiro01/Happy)
